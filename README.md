@@ -18,3 +18,9 @@ se actualizan demasiado rápido donde la deje a 1 segundo pero puede se cambiada
 
 Implementación
 La lógica de detección se encuentra en la función analyzeLocationData(location, previousLocation) en el archivo LocationForm.js.
+
+
+Instalación
+
+En la carpera App se encuentra el apk correspondiente para la instalación.
+
